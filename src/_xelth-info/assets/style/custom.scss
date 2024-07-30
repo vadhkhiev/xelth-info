@@ -1,0 +1,8 @@
+@import "variable";
+@import "welcome";
+.main-content {
+  padding-top: 10px;
+  min-height: 90vh;
+}
+
+@import 'bootstrap/dist/css/bootstrap.css';

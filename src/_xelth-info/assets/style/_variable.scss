@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@100..900&display=swap');
+
+$main: #5c573e;
+$text : #E0FFFF;
+$extra : #333333;
+
+.default-bg {
+  background: $main;
+}
+
+.font-inter {
+  font-family: Inter, sans-serif;
+}
+
+.font-stylist {
+  font-family: 'Bebas Neue', cursive;
+}
+
+.extra-bg{
+  background: $extra;
+}
+
+.text {
+  color: $text;
+}
