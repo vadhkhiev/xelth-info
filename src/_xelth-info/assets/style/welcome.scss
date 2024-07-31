@@ -1,0 +1,25 @@
+.welcome-page {
+  margin-top: 1px;
+}
+/* Add this to your CSS file */
+.welcome-page h1 {
+  font-size: 15vw; /* Adjusts the size of the font based on the viewport width */
+}
+
+@media (min-width: 768px) {
+  .welcome-page h1 {
+    font-size: 8vw;
+  }
+}
+
+@media (min-width: 992px) {
+  .welcome-page h1 {
+    font-size: 8vw;
+  }
+}
+
+@media (min-width: 1200px) {
+  .welcome-page h1 {
+    font-size: 8vw;
+  }
+}
